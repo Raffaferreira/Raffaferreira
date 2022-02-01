@@ -1,4 +1,4 @@
-## Rafael Ferreira, Heloisa's Father 
+## Rafael Ferreira,
 
 - 👋 Hi, I’m @Raffaferreira a Software Engineer 
 - 👀 I’m interested in new challanges and project to collaborate and 
