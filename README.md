@@ -1,4 +1,12 @@
 ## Rafael Ferreira, pai da heloisa e engenheiro de software!
+
+- 👋 Hi, I’m @Raffaferreira a Software Emgineer 
+- 
+- 👀 I’m interested in new challanges and project to collaborate and 
+- 🌱 I’m currently learning Flutter and developing a personal project, which it's a private repository...
+- 💞️ I’m looking to collaborate on .NET and Flutter community
+- 📫 How to reach me ?
+
 <div align="center">
   <a href="https://github.com/raffaferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffaferreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -22,11 +30,5 @@
   ##
  
 
-- 👋 Hi, I’m @Raffaferreira a Software Emgineer or just a simple programmer
-- 
-- 👀 I’m interested in new challanges and project to collaborate and 
-- 🌱 I’m currently learning Flutter and developing a personal project, which it's a private repository...
-- 💞️ I’m looking to collaborate on .NET and Flutter community
-- 📫 How to reach me ?
 
 
