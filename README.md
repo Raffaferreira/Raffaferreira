@@ -1,7 +1,6 @@
 ## Rafael Ferreira, pai da heloisa e engenheiro de software!
 
-- 👋 Hi, I’m @Raffaferreira a Software Emgineer 
-- 
+- 👋 Hi, I’m @Raffaferreira a Software Engineer 
 - 👀 I’m interested in new challanges and project to collaborate and 
 - 🌱 I’m currently learning Flutter and developing a personal project, which it's a private repository...
 - 💞️ I’m looking to collaborate on .NET and Flutter community
